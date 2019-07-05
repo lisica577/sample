@@ -1,0 +1,66 @@
+#wrapper {
+width:900px;
+outline:1px solid #424242;
+padding:12px;
+margin: 0 auto;	
+}
+
+#header {
+padding-top:0.2cm;
+float:left;
+width:150px;
+height:220px;
+background:#999999;
+margin-bottom:15px;	
+color: #b43104; /*цвет шрифта*/
+font-size: 12px;
+font-family: "Lucida console";
+}
+
+#foto{
+position: absolute; 
+right: 270px; 
+top: 40px;
+}
+
+#menu {
+position: relative;
+padding-top:0.2cm;
+height:220px;
+background:#666666;
+margin-bottom:15px;	
+width:740px;
+margin-left:160px;
+color: #ffffff; /*цвет шрифта*/
+font-size: 12px;
+font-family: "Times new roman";
+}
+
+#text {
+height:650px;	
+background:#cccccc;
+margin-bottom:15px;
+font-size: 12px;
+font-family: "Times new roman";		
+}
+
+#h2 {
+color: #fe2e2e; /* цвет шрифта */
+}
+
+#h3 {
+color: #380b61; /*цвет шрифта*/	
+background:#f5f6ce
+}
+
+
+#footer {
+height:50px;
+background:#333333;
+margin-bottom:15px;
+color: #ffffff; /*цвет шрифта*/	
+font-size: 12px;
+font-family: "Old Ehglish text";	
+}
+
+
